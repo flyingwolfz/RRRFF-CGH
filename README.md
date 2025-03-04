@@ -14,7 +14,7 @@ code for "Real-time realistic free-viewpoint computer generated hologram for rea
 
 - 3, C++ code for real-time CGH generation, see **C++** folder
 
-- 4, rendered dataset, download from https://drive.google.com/drive/folders/1DxnaAlifiwr2t0_KcOdE5dYgDqKHd3yf?usp=drive_link
+- 4, rendered dataset, trained models, valid scenes, download from https://drive.google.com/drive/folders/1DxnaAlifiwr2t0_KcOdE5dYgDqKHd3yf?usp=drive_link
 
     (Google drive has 15GB limits, and I can only upload 100 random scenes, around 11GB)
 
